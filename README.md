@@ -1,5 +1,5 @@
-# Static web page hosting + Jekyll
+# Static web page using Jekyll file
 
 **Homework-week3**
 
-[Link pages](https://pdvx.github.io/homework-week3/)
+
